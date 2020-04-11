@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+    margin-right: 200px;
+}
+
+h2{
+    font-family: Arial;
+}
+
+p {
+    font-family: Arial;
+}
+
+.img_padrao{
+    margin-bottom: 10px;
+    width: 500px;
+}
+
+.img_contato{
+    margin-left: 10px;
+    width: 30px;
+}
+footer{
+    margin-bottom: 30px;
+}
