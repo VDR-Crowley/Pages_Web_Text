@@ -1,6 +1,22 @@
 body{
     background-color: beige;
-    margin-right: 200px;
+}
+
+.navbar{
+    background-color: burlywood;
+}
+
+.quem-somos{
+    background-color: bisque;
+}
+
+.margin{
+    margin-bottom: 50px;
+}
+
+h4{
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
 
 h2{
@@ -18,8 +34,9 @@ p {
 
 .img_contato{
     margin-left: 10px;
+    margin-bottom: 20px;
     width: 30px;
 }
 footer{
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
